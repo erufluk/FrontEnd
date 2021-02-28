@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url(../../assets/img/casalPB.jpg);
+  
+    min-height: 655px;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
